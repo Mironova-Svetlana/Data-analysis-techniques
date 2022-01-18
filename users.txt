@@ -1,0 +1,2 @@
+admin;Passwd123
+student;2
